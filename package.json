@@ -1,0 +1,16 @@
+{
+  "name": "doc-expiry",
+  "version": "1.0.0",
+  "private": true,
+  "description": "doc-expiry 证件到期管理 —— 原生前端 + Node/Express REST API + data.json 持久化",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
